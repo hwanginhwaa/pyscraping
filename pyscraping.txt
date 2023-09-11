@@ -1,0 +1,11 @@
+[Python web scraping guide]
+
+
+(github)
+https://github.com/wikibook/pyscraping (원본)
+https://github.com/hwanginhwaa/pyscraping.git (fork)
+
+[jupyter notebook]
+Anaconda Powershell Prompt
+> conda activate YSIT23
+> jupyter notebook --notebook-dir="D:\jworkspace\github\pyscraping"

@@ -1,0 +1,8 @@
+[jupyter notebook]
+
+Anaconda Powershell Prompt
+conda activate YSIT23
+jupyter notebook --notebook-dir="D:\jworkspace\github\YSHi2023\hg-da2"
+
+(Web Browser)
+http://localhost:8888/tree
